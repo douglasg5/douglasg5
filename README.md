@@ -12,7 +12,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gdscript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg">
+  <img align="center" alt="Gdscript" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg)">
   <img align="center" alt="qml" height="30" width="40" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fplugins.jetbrains.com%2Fplugin%2F14434-qml-editor&psig=AOvVaw2JEBttjM1J86sVVxl83tz4&ust=1671143962329000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDkv7mW-vsCFQAAAAAdAAAAABAE">
 </div>
   
