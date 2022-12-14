@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Biglinux
 - 🌱 I’m currently learning qml and bigbashview
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with open-source projects
 
 <div align="center">
