@@ -1,4 +1,4 @@
-### Hi there, my name is Douglas Guimarães! I'm a fullstack developer and I'm always ready to learn new thing! 👋 
+### Hi there, my name is Douglas Guimarães! I'm a fullstack developer and I'm always ready to learn new things! 👋 
 
 - 🔭 I’m currently working on Biglinux
 - 🌱 I’m currently learning qml and bigbashview
@@ -12,7 +12,7 @@
 </div>
   
  
-<b>Tecnologies that I work with: </b>
+<b>Tecnologies that I work with🤍: </b>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
