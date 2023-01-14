@@ -1,6 +1,6 @@
 ### Hi there, my name is Douglas Guimarães! I'm a fullstack developer and I'm always ready to learn new things! 👋 
 
-- 🔭 I am currently working voluntarily on Biglinux and others open-source projects
+- 🔭 I'm always looking to help with Biglinux and other open source projects!
 - 🌱 I’m currently learning qml and bigbashview
 - 
 
