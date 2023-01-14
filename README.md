@@ -2,8 +2,7 @@
 
 - 🔭 I'm always looking to help with Biglinux and other open source projects!
 - 🌱 I’m currently learning qml and bigbashview
-- 
-
+- 👀 contact me on my E-mail!
 <div align="center">
   <a href="https://github.com/dg2003gh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dg2003gh&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
