@@ -1,7 +1,7 @@
 ### Hi there, my name is Douglas Guimarães! I'm a fullstack developer and I'm always ready to learn new things! 👋 
 
-- 🔭 I'm always looking to help with Biglinux and other open source projects!
-- 🌱 I’m currently learning qml and bigbashview
+- 🌱 I’m currently learning GDSCRIPT
+  
 - 👀 contact me on my E-mail!
 <div align="center">
   <a href="https://github.com/dg2003gh">
