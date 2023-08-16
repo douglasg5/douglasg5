@@ -1,8 +1,13 @@
-### Hi there, my name is Douglas Guimarães! I'm a fullstack developer and I'm always ready to learn new things! 👋 
+### Hi there, my name is Douglas Guimarães! I'm always ready to learn new things! 👋 
+
+- 🧑‍💻 I’m an undergraduate student of Information Systems
 
 - 🌱 I’m currently learning GDSCRIPT
   
 - 👀 contact me on my E-mail!
+
+
+
 <div align="center">
 <b>Tecnologies that I work with🤍: </b>
 <div style="display: inline_block"><br>
