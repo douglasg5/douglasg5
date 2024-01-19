@@ -24,6 +24,6 @@
   ##
  
 <div> 
- <a href="https://discord.gg/XhuTC5rKGH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dg2003gh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="www.linkedin.com/in/douglas-guimarães-691241263" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></a> 
+  <a href = "mailto:douglas.guimaraes.2120@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
