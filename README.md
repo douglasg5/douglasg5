@@ -24,10 +24,10 @@
   ##
  
 <div> 
- <a href="www.linkedin.com/in/douglas-guimarães-691241263" target="_blank">
+ <a href="https://www.linkedin.com/in/douglas-guimarães-691241263" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a> 
-  <a href = "mailto:douglas.guimaraes.2120@gmail.com" target="_blank">
+  <a href="mailto:douglas.guimaraes.2120@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
