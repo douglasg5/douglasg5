@@ -24,6 +24,6 @@
   ##
  
 <div> 
- <a href="www.linkedin.com/in/douglas-guimarães-691241263" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></a> 
+ <a href="www.linkedin.com/in/douglas-guimarães-691241263" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
   <a href = "mailto:douglas.guimaraes.2120@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
